@@ -6,7 +6,7 @@ Assigns grade based on average
 Displays clear result summary
 
 Technologies Used
-Language: Java (or Python, C++, etc.)
+Language: Java 
 IDE: Notepad / Eclipse / VS Code
 Console-based input/output
 
